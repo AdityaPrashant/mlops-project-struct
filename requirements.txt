@@ -1,0 +1,5 @@
+##important packages
+pandas
+numpy
+seaborn
+-e .
